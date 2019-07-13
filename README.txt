@@ -34,7 +34,8 @@ I put some initial data in bootstrap:
     }
 ]
 
-Use postman to get, put and post.
+Use postman to requests: get, put and post.
+The response will be type json.
 
 Get example:
 GET http://my-service/api/network?id=2
