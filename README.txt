@@ -37,19 +37,19 @@ I put some initial data in bootstrap:
 Use postman to requests: get, put and post.
 The response will be type json.
 
-Get example:
-GET http://my-service/api/network?id=2
+Get example: (localhost:8080 can be replace with your own machine)
+GET http://localhost:8080/my-service/api/network?id=2
 
-Put example:
-PUT http://my-service/api/network/connect
+Put example: (localhost:8080 can be replace with your own machine)
+PUT http://localhost:8080/my-service/api/network/connect
 		{
 			"device_id": "lior_device_123",
 			"network_id": "3",
 			"auth" : "public"
 		}
        
-Post example:
-POST http://my-service/api/network/report
+Post example: (localhost:8080 can replace with be your own machine)
+POST http://localhost:8080/my-service/api/network/report
 		{
 			"device_id": "Samasung_device_a1b2",
 			"network_id": "5",
