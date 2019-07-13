@@ -1,4 +1,4 @@
-package com.example.checkpoint;
+package com.checkpoint.checkpoint;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
