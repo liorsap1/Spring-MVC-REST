@@ -1,7 +1,7 @@
 How to run the application:
 
 Download the source code.
-Open in IntelliJ, build and run the project.
+Open in IntelliJ or other editor, build and run the project.
 
 I put some initial data in bootstrap:
 
